@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maroua+Ezzaki+Kadmiri!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maroua+Ezzaki!;" />
 </h1>
 
 <h3 align="center">A passionate software development student from Spain 🇪🇸</h3>
@@ -59,7 +59,7 @@
 
 
 <div align="center">
-  <i>❝The ones who stand at the top are those who never give up! We will overcome any obstacle and reach the New World!❞ - Monkey D. Luffy</i>
+  <i>❝First, solve the problem. Then, write the code.❞ – John Johnson</i>
 </div>
 
 <br/>
