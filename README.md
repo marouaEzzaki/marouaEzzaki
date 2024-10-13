@@ -2,21 +2,21 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maroua+Ezzaki!;" />
 </h1>
 
-<h3 align="center">A passionate software development student from Spain 🇪🇸</h3>
+<h3 align="center">A passionate mobile development student from Spain 🇪🇸</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **a mobile marketplace application**
  
- 🌱 I’m currently learning **Kotlin, Supabase, AWS**
+ 🌱 I’m currently learning **Kotlin, Swift, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/marouaEzzaki/marouaEzzaki/issues)**
+💬 Ask me about **Mobile App Development, Android, iOS, Kotlin, Swift... or anything [here](https://github.com/marouaEzzaki/marouaEzzaki/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The original iPhone prototype was kept in an iPod case to keep it a secret during testing!**
 
- </div>
+</div>
 
 
 <div align="center"> 
@@ -29,13 +29,13 @@
 
 </div>
 
- <hr/>
- 
+<hr/>
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,swift,react,androidstudio,xcode,docker,html,css,github,figma,git" /><br>
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,php,mysql,firebase" /><br>
 </div>
 
 <br/>
