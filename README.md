@@ -21,9 +21,9 @@
 
 <div align="center"> 
   <a href="mailto:marouaezzaki23@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Añadir 4 espacios entre los botones -->
+  &nbsp;&nbsp;&nbsp;&nbsp; <!-- Añadir espacio entre los botones -->
   <a href="www.linkedin.com/in/marouaezzakikadmiri" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
