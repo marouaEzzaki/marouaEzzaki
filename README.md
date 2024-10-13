@@ -69,7 +69,7 @@
 </h1>
 
 <h4 align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4980&pause=1099&color=FFFFFF&vCenter=true&random=false&width=550&lines=Explore+my+repositories+below;+Let's+build+something+together!+🤝" alt="Typing SVG"/> 
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4980&pause=1099&color=FFFFFF&vCenter=true&random=false&width=550&lines=Explore+my+repos+below;+Let's+build+something+together!+🤝" alt="Typing SVG"/> 
 </h4>
 
  
