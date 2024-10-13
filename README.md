@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **an e-learning mobile application**
+ 🔭 I’m currently working on **a task manager with cloud sync**, in my final year of studies, looking for **opportunities to start my career!** 💼
  
  🌱 I’m currently learning **Kotlin, Swift, Supabase, AWS**
 
@@ -42,7 +42,7 @@
 <hr/>
 
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Stats ⚡</h2> <!--aqui podría poner mi nombre-->
 <br>
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=marouaEzzaki&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
