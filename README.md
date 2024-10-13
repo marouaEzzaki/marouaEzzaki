@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maroua+Ezzaki!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maroua+Ezzaki+Kadmiri!;" />
 </h1>
 
 <h3 align="center">A passionate software development student from Spain 🇪🇸</h3>
@@ -65,7 +65,7 @@
 <br/>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Thanks+for+visiting!👋;+Shoot+me+a+message+on+LINKEDIN+or+Email+me;+I'm+always+down+to+Collaborate" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&size=20&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Thanks+for+visiting!👋;+Shoot+me+a+message+on+LINKEDIN+or+Email+me;+I'm+always+down+to+Collaborate" />
 </h1>
 
 <h4 align="center">
