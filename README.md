@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a mobile marketplace application**
+ 🔭 I’m currently working on **an e-learning mobile application**
  
  🌱 I’m currently learning **Kotlin, Swift, Supabase, AWS**
 
