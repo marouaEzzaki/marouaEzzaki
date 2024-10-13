@@ -20,7 +20,7 @@
 
 
 <div align="center"> 
-  <a href="mailto:marouaezzaki23@gmail.com" style="margin-right: 10;">
+  <a href="mailto:marouaezzaki23@gmail.com" style="margin-right: 30px;">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="www.linkedin.com/in/marouaezzakikadmiri" target="_blank">
