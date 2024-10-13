@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a task manager with cloud sync**, in my final year of studies, looking for **opportunities to start my career!** 💼
+ 🔭 I’m currently working on **an e-learning mobile application**, in my final year of studies, looking for **opportunities to start my career!** 💼
  
  🌱 I’m currently learning **Kotlin, Swift, Supabase, AWS**
 
