@@ -10,7 +10,7 @@
 
 
  🔭 I’m currently working on a **login-registration** app while **finishing** my studies. 
-             I’m looking for **opportunities to start my career!** 💼
+             <br>I’m looking for **opportunities to start my career!** 💼
 
  <!--
  🔭 I’m currently working on **a login-registration app** in my final year of studies, looking for **opportunities to start my career!** 💼
