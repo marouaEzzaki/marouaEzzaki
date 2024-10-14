@@ -7,9 +7,13 @@
 <br/>
 
 <div align="center">
- 
+
+
+ 🔭 I’m currently working on a **login-registration** app while **finishing** my studies, and I’m looking for **opportunities to start my career!** 💼
+
+ <!--
  🔭 I’m currently working on **a login-registration app** in my final year of studies, looking for **opportunities to start my career!** 💼
- 
+ -->
  🌱 I’m currently learning **Kotlin, Swift, Supabase, AWS**
 
 💬 Ask me about **Mobile App Development, Android, iOS, Kotlin, Swift... or anything [here](https://github.com/marouaEzzaki/marouaEzzaki/issues)**
