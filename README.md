@@ -19,7 +19,7 @@
 
 💬 Ask me about **Mobile App Development, Android, iOS, Kotlin, Swift... or anything [here](https://github.com/marouaEzzaki/marouaEzzaki/issues)**
 
-⚡ Fun fact **The original iPhone prototype was kept in an iPod case to keep it a secret during testing!**
+⚡ Fun fact : **The original iPhone prototype was kept in an iPod case to keep it a secret during testing!**
 
 </div>
 
