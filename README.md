@@ -9,13 +9,13 @@
 <div align="center">
 
 
- 🔭 I’m currently working on a **login-registration** app while **finishing** my studies. 
+ 🔭 I’m currently working on an **app that allows users to organize their wardrobe and create outfits** while **finishing** my studies. 
              <br>I’m looking for **opportunities to start my career!** 💼
 
  <!--
  🔭 I’m currently working on **a login-registration app** in my final year of studies, looking for **opportunities to start my career!** 💼
  -->
- 🌱 I’m currently learning **Kotlin, Swift, Supabase, AWS**
+ 🌱 I’m currently learning **Kotlin, Swift, Firebase, AWS**
 
 💬 Ask me about **Mobile App Development, Android, iOS, Kotlin, Swift... or anything [here](https://github.com/marouaEzzaki/marouaEzzaki/issues)**
 
